@@ -1,4 +1,5 @@
-SwitzerCOP.github.io
-====================
+# SwitzerCOP.github.io
 
-Test repo and site for NICAR
+---
+
+Test repo and site for NICAR during a 101 course.
